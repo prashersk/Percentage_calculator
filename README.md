@@ -8,5 +8,5 @@ Percentage_calculator
 How to use shinyAPP Percentage_calculator
 =========================================
 1. Please use input box to input your number.
-2. Enter submit button to see your CGPA grades and perdiction.
+2. Press submit button to see your actual CGPA grades and perdiction.
 
