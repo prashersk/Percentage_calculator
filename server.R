@@ -1,4 +1,4 @@
-# The Cumulative Grade Point Average (CGPA) calculator is determined 
+# The Cumulative Grade Point Average (CGPA) is determined 
 # based on the marks entered by the user.
 library(shiny)
 grades <- function(marks) {
